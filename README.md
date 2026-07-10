@@ -23,7 +23,7 @@ Proyecto2P_RiesgoInundacion_LosRios/
 └── Notebook/
     ├── Proyecto_LosRios_FINALII_(1).ipynb   # Notebook con el análisis y entrenamiento del modelo
     └── Informe y Presentacion/              # Informe y presentación del proyecto
-
+    
 ## Cómo funciona
 
 `app.py` combina el GeoJSON con el CSV de predicciones, emparejando por código de parroquia (DPA_PARROQ - codigo_parroquia).
